@@ -8,6 +8,7 @@ reports
 Through this lab our aim to get introduced with the PACS servers and accomplished the following goals
 shown below using two publicly available free software called Orthanc (Free PACS Server) and Ginkgo
 CADx (data viewer)
+
 ![Test Image 8](https://github.com/fitushar/Ehealth_Course_work/blob/master/LAB_1_Using_A_PACS_Server_and_Visualization/Capture%20asd.PNG)
 ![Test Image 8](https://github.com/fitushar/Ehealth_Course_work/blob/master/LAB_1_Using_A_PACS_Server_and_Visualization/measurement.PNG)
 
@@ -19,3 +20,5 @@ for gold standard segmentation and testing the results of semi-automatic and aut
 manual segmentation using some tools plays an important role. In this lab we get introduced with two
 publicly available tools called “ITK-SNAP” and “3D-Slicer” and performed segmentation task. The
 objectives of this lab shown below.
+
+![Test Image 8](https://github.com/fitushar/Ehealth_Course_work/blob/master/LAB_2_Software_Tools/objective.PNG)
